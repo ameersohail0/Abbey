@@ -12,4 +12,5 @@ Requirements:
 ****USAGE****
 
 $ chmod u+x ./Abbey.py
+
 $ ./Abbey.py
